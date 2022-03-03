@@ -1,0 +1,22 @@
+
+[
+    {"name": "RRY1_JSPSA", 
+      "price": 22, 
+      "product": "datta" 
+    },
+
+      {"name": "RRY2_JSPSA", 
+        "price": 29, 
+        "product": "Musmatta" 
+      },
+
+        {"name": "RRY3_JSPSA", 
+          "price": 25, 
+          "product": "tangentbord" 
+        }
+  
+        ]
+
+
+
+
