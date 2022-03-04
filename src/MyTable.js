@@ -8,7 +8,7 @@ import {
     Option,
   } from "@ui5/webcomponents-react";
   import { Select } from '@ui5/webcomponents-react';
-import ProductCard from "./components/ProductCard";
+import TableCells from "./components/TableCells";
 import Data from './data.json';
 
 
@@ -16,6 +16,7 @@ import Data from './data.json';
  export function MyTable({ title }) {
   return(
      <>
+     <h1>Stock overview</h1>
         <Table
           columns={
             <>
@@ -47,7 +48,15 @@ import Data from './data.json';
         >
          
         { Data.map((product, index) => (
-      <ProductCard key={index} name={product.name} price={product.price} product={product.product}/>))};
+      <TableCells  key={index} storagebin={product.storagebin} 
+                    handlingunit={product.handlingunit} 
+                    product={product.product} 
+                    productdesc={product.productdesc}
+                    batch={product.batch}
+                    quantity={product.quantity}
+                    
+                    />))};
+
       
 
  

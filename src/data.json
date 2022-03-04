@@ -1,18 +1,64 @@
 
 [
-    {"name": "RRY1_JSPSA", 
-      "price": 22, 
-      "product": "datta" 
+    {"storagebin": "RRY1_JSPSA", 
+      "handlingunit": 22, 
+      "product": "Mjau",
+      "productdesc": "datta",
+      "batch": "datta",
+      "quantity": "datta" 
     },
 
-      {"name": "RRY2_JSPSA", 
-        "price": 29, 
-        "product": "Musmatta" 
+      {"storagebin": "RRY1_JSPSA", 
+        "handlingunit": 22, 
+        "product": "Mjau",
+        "productdesc": "datta",
+        "batch": "121289137913",
+        "quantity": "3"  
+      
       },
 
-        {"name": "RRY3_JSPSA", 
-          "price": 25, 
-          "product": "tangentbord" 
+        {"storagebin": "RRY1_JSPSA", 
+          "handlingunit": 22, 
+          "product": "Mjau",
+          "productdesc": "datta",
+          "batch": "datta",
+          "quantity": "datta" 
+        },
+
+        {"storagebin": "RRY1_JSPSA", 
+          "handlingunit": 22, 
+          "product": "Mjau",
+          "productdesc": "datta",
+          "batch": "datta",
+          "quantity": "datta" 
+        
+        },
+
+        {"storagebin": "RRY1_JSPSA", 
+        "handlingunit": 22, 
+        "product": "Mjau",
+        "productdesc": "datta",
+        "batch": "datta",
+        "quantity": "datta" 
+        
+        },
+
+        {"storagebin": "RRY1_JSPSA", 
+          "handlingunit": 22, 
+          "product": "Mjau",
+          "productdesc": "datta",
+          "batch": "datta",
+          "quantity": "datta" 
+        
+        },
+
+        {"storagebin": "RRY1_JSPSA", 
+          "handlingunit": 22, 
+          "product": "Mjau",
+          "productdesc": "datta",
+          "batch": "datta",
+          "quantity": "datta" 
+        
         }
   
         ]
